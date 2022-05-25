@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vaishnaviDevi05
+- 👋 Hi, I’m VaishnaviDevi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React, .NET
 - 💞️ I’m looking to collaborate on .NET projects
