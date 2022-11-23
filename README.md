@@ -1,7 +1,7 @@
 - 👋 Hi, I’m VaishnaviDevi
 - 👀 I’m interested in coding.Having knowledge in python
 - 🌱 I’m currently learning React, .NET
-- 💞️ I’m looking to collaborate on .NET projects
+- 💞️ I’m looking to collaborate on python and .NET projects
 - 📫 How to reach me 
 
 LinkedIn
